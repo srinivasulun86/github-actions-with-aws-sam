@@ -25,5 +25,5 @@ jobs:
 
       - name: Deploy Lambda Function
         run: |
-          cd path/to/your/serverless/service
+          cd my-serverless-lambda
           serverless deploy
