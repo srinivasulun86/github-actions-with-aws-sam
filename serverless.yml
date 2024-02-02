@@ -1,0 +1,7 @@
+service:
+  name: my-serverless-lambda
+
+provider:
+  name: aws
+  runtime: nodejs14.x
+  region: us-east-1 # Replace with your desired AWS region
